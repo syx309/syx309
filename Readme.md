@@ -25,6 +25,7 @@
 
 ![Angular](https://img.shields.io/badge/-Angular-000000?style=flat&logo=angular&logoColor=DD0031)
 ![Laravel](https://img.shields.io/badge/-Laravel-000000?style=flat&logo=laravel&logoColor=FF2D20)
+![Fastapi](https://img.shields.io/badge/-Fastapi-000000?style=flat&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAAAqFBMVEUAAAAAWvAAWe8AWfEAWfAAWO8AWu8AV%2B4AWPAAWfAAWvAAWe8AWe8AWe8AWfAAWfAAWe8AWe8AWe8AWe8AWe8AWvAAWe8AWO8AVPBXk%2FQBX%2FAATO9JifTL3fkATfAAWfAAUPDf6vuWu%2FgAS%2FACW%2FAATe9toPb%2F%2F%2F79%2Ff0DXPAEXfHM3vn%2B%2F%2F1rn%2FYAW%2FCYvPjc6fsATvAAWu9Hh%2FQBYPBWkfQAUvD%2F%2F%2F%2B52BlgAAAAFXRSTlMAAAAAAAAAAABLs97ds7a1S7KxtrVUER2xAAAAiklEQVQIWwXB2w3CQAxFwXPtXUcgSEgB9N8a4iMIhFBeGzMjQAJADQpmVEnaN%2Bkolpw7pMzl16o7lw6Zebqv6TkEhLvvXJmLBKqS4vMzGRsaImKtsGIAtda87QBGQJn9VN5JxfK456Of%2FJmc53RbFmm82gTrV4qd0VGm2guEQd8S%2BQffBHTtAIgZ%2FiqnNHsYCH0JAAAAAElFTkSuQmCC)
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js&logoColor=339933)
 
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql)
@@ -40,8 +41,6 @@
 
 ![Web](https://img.shields.io/badge/-Web-000000?style=flat&logo=google-chrome)
 ![Android](https://img.shields.io/badge/-Android-000000?style=flat&logo=android)
-
-![Fastapi](https://img.shields.io/badge/-Fastapi-000000?style=flat&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAAAqFBMVEUAAAAAWvAAWe8AWfEAWfAAWO8AWu8AV%2B4AWPAAWfAAWvAAWe8AWe8AWe8AWfAAWfAAWe8AWe8AWe8AWe8AWe8AWvAAWe8AWO8AVPBXk%2FQBX%2FAATO9JifTL3fkATfAAWfAAUPDf6vuWu%2FgAS%2FACW%2FAATe9toPb%2F%2F%2F79%2Ff0DXPAEXfHM3vn%2B%2F%2F1rn%2FYAW%2FCYvPjc6fsATvAAWu9Hh%2FQBYPBWkfQAUvD%2F%2F%2F%2B52BlgAAAAFXRSTlMAAAAAAAAAAABLs97ds7a1S7KxtrVUER2xAAAAiklEQVQIWwXB2w3CQAxFwXPtXUcgSEgB9N8a4iMIhFBeGzMjQAJADQpmVEnaN%2Bkolpw7pMzl16o7lw6Zebqv6TkEhLvvXJmLBKqS4vMzGRsaImKtsGIAtda87QBGQJn9VN5JxfK456Of%2FJmc53RbFmm82gTrV4qd0VGm2guEQd8S%2BQffBHTtAIgZ%2FiqnNHsYCH0JAAAAAElFTkSuQmCC)
 
 [instagram]: https://instagram.com/codewithfred
 [linkedin]: https://www.linkedin.com/in/alfred-soegiarto-11b6291b7
