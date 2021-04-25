@@ -7,8 +7,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codewithfred | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" color="white"/>][instagram]
-[<img align="left" alt="alfred.s | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" color="white"/>][linkedin]
+[<img align="left" alt="codewithfred | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" style="color: white;"/>][instagram]
+[<img align="left" alt="alfred.s | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="color: white;"/>][linkedin]
 
 <br />
 
