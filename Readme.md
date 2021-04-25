@@ -7,8 +7,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codewithfred | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" style="color: white;"/>][instagram]
-[<img align="left" alt="alfred.s | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="color: white;"/>][linkedin]
+[https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white][instagram]
+[https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white][linkedin]
 
 <br />
 
