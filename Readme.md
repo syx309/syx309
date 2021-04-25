@@ -7,8 +7,11 @@
 
 ### Connect with me:
 
-[https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/codewithfred)
-[https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alfred-soegiarto-11b6291b7)
+![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+https://instagram.com/codewithfred
+
+![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+https://www.linkedin.com/in/alfred-soegiarto-11b6291b7
 
 <br />
 
