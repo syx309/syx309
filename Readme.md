@@ -1,4 +1,4 @@
-### Hi there, I'm Alfred Soegiarto - aka @Codewithfred 👋
+### Hi there, I'm Alfred Soegiarto👋
 ## I'm a Tech Enthusiast, Gamer, Pianist, and a Content Creator!!
 
 - 🌱 I’m currently learning everything 🤣
